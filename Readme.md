@@ -1,0 +1,1 @@
+Esse repositório foi feito apenas com intuito de ser usado numa demonstração de uso da ferramenta git-secret
